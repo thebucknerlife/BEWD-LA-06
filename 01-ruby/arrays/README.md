@@ -10,6 +10,7 @@ for every email in the list.
 Goals
 -----
 
+* Loops
 * Creating a list from scratch
 * Adding/removing elements to a list
 * Getting elements out of a list
@@ -19,6 +20,7 @@ Goals
 Agenda
 ------
 
+* Until and while in Lottery app
 * Arrays are lists
 * IRB demo
 * `.each do` Demo
